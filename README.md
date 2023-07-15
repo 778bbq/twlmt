@@ -34,3 +34,33 @@ DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN-SUFFIX,catch.net.tw
 DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
 DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
+
+# > hamivideo
+USER-AGENT,hamivideo*,hamivideo
+DOMAIN-SUFFIX,hinet.net,hamivideo
+DOMAIN-SUFFIX,cht.com.tw,hamivideo
+
+# > kktv
+DOMAIN,kktv-theater.kk.stream
+DOMAIN,theater-kktv.cdn.hinet.net
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+
+# > kktv
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,litv.tv
+
+# > giloo
+USER-AGENT,giloo*,giloo
+DOMAIN-SUFFIX,giloo.ist,giloo
+DOMAIN-SUFFIX,vimeocdn.com,giloo
+DOMAIN-SUFFIX,vimeo.com,giloo
+DOMAIN-SUFFIX,quantumgraph.com,giloo
+DOMAIN-SUFFIX,bitmovin.com,giloo
+DOMAIN-SUFFIX,appier.net,giloo
+DOMAIN-SUFFIX,ipapi.co,giloo
+DOMAIN-SUFFIX,qgraph.io,giloo
+DOMAIN,87vod-adaptive.akamaized.net,giloo
+DOMAIN,152vod-adaptive.akamaized.net,giloo
